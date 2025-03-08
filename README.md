@@ -9,7 +9,6 @@ I am a web and mobile developer with a Master's degree in Software Engineering. 
 * 🌍  I'm based in Algiers
 * 🖥️  See my portfolio at [www.kamelberkani.com](http://www.kamelberkani.com)
 * ✉️  You can contact me at [kamelberkani08@gmail.com](mailto:kamelberkani08@gmail.com)
-* 🧠  I'm learning next.js, nest.js and react native
 * 🤝  I'm open to collaborating on Web apps, saas projects, mobile apps
 * ⚡  my tech stack: java springboot, angular, react, nextjs, nestjs, react native
 
